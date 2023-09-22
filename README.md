@@ -77,11 +77,18 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="90%" height="320"/>
 </div>  
   
-### <div align="center">I'm lisui, I am a student ,blogger👨‍💻  andamateur blogger 🎣. study since 2023 till now🚀</div>   
-<br><div align="center"><img src="https://count.getloli.com/get/@:Breeze-xk" alt=":Breeze-xk" /></div></br>
-<p>
-  <img src="https://weather-icon.journeyad.repl.co/@shuozhou?v=1" align="right">
-</p> 
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@lisui?theme=rule34"></a>
+</p>
+
+<h1 align="center">
+  Hey, I'm lisui!👏
+</h1>
+
+<div align="center">
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966"
+width="800"  height="3">
+</div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
